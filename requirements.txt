@@ -1,0 +1,13 @@
+python-pptx
+pillow
+pytesseract
+sounddevice
+numpy
+pydub
+requests
+pywin32
+google-genai
+scipy
+faster_whisper
+vosk 
+sounddevice 

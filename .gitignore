@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+.env
+tools/ffmpeg.exe
+models/
+.cache/
+vosk_model/

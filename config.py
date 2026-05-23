@@ -6,7 +6,7 @@ PPT_PATH = r"C:\Users\Akhilesh\OneDrive\Desktop\stock.pptx"
 
 # Hume API Key
 HUME_API_KEY = "HUME_API_KEY"
-HUME_VOICE_ID = "HUME_VOICE_ID2"
+HUME_VOICE_ID = "HUME_VOICE_ID"
 HUME_TTS_VERSION = "2"
 
 # Ollama model name

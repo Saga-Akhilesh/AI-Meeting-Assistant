@@ -5,15 +5,15 @@
 PPT_PATH = r"C:\Users\Akhilesh\OneDrive\Desktop\stock.pptx"
 
 # Hume API Key
-HUME_API_KEY = "TnqRruokdFTl14KSwm7Ftpi1H7CCmZBGCNGKrE3ssUE4etqt"
-HUME_VOICE_ID = "c5b56795-2c6d-45b9-8f58-fc7efa4a2b82"
+HUME_API_KEY = "HUME_API_KEY"
+HUME_VOICE_ID = "HUME_VOICE_ID2"
 HUME_TTS_VERSION = "2"
 
 # Ollama model name
 #OLLAMA_MODEL = "llama3.2"
 
 #Gemini Model
-GEMINI_API_KEY = "AIzaSyCiQyaI43v9oh8vJfCsxYObHbS6uk46RWg"
+GEMINI_API_KEY = "GEMINI_API_KEY"
 GEMINI_MODEL = "gemini-2.5-flash"
 
 
